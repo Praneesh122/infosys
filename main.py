@@ -13,9 +13,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 
-EMAIL_ADDRESS = "praneeshs2005@gmail.com"
-EMAIL_PASSWORD = "lqvr sojf lroh szpc" 
-RECIPIENT_EMAIL = "praneeshs2005@gmail.com"
+EMAIL_ADDRESS = "sender mail"
+EMAIL_PASSWORD = "password" 
+RECIPIENT_EMAIL = "receiver mail"
 PRICE_CHANGE_THRESHOLD_PERCENT = 0.05 # 5% price change triggers alert
 
 # --- Configuration for Styling (Improved & Unique Dark Theme) ---
